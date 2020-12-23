@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ToDoApp</string>
+    <string name="task_name">Task name</string>
+    <string name="important_task">Important task</string>
+    <string name="tasks">Tasks</string>
+    <string name="new_task">New Task</string>
+    <string name="edit_task">Edit Task</string>
+    <string name="created">Created: %s</string>
+    <string name="empty_name">Name cannot be empty</string>
+    <string name="delete_dialog_title">Confirm deletion</string>
+    <string name="delete_dialog_message">Do you really want to delete all completed tasks?</string>
+    <string name="dialog_negative_message">Cancel</string>
+    <string name="dialog_positive_message">Yes</string>
+    <string name="task_deleted">Task deleted</string>
+    <string name="undo">Undo</string>
+    <string name="task_added">Task added</string>
+    <string name="task_updated">Task updated</string>
+    <string name="search">Search</string>
+    <string name="sort">Sort</string>
+    <string name="sort_by_name">Sort by name</string>
+    <string name="sort_by_date_created">Sort by date created</string>
+    <string name="hide_completed">Hide completed</string>
+    <string name="delete_all_completed">Delete all completed</string>
+</resources>
